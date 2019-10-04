@@ -18,4 +18,4 @@ Good luck!!
 Motivational message below
 --------------------------
 
-Replace this text with a motivational message!
+Very cool repo!
